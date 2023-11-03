@@ -24,7 +24,7 @@ TCP / IP 프로토콜을 이용하는 프로그램이 **정확한 전송을 보�
 
 TCP는 정확한 전송을 보장해야 한다. 따라서 통신하기에 앞서, 논리적인 접속을 성립하기 위해 3 way handshake 과정을 진행한다.
 
-!https://velog.velcdn.com/images%2Fguswns3371%2Fpost%2F175f2d99-65a7-446c-b49a-df1022ae73cc%2Fimage.png
+![Alt text](imgsrc/3&4img1.png)
 
 1. **클라이언트는 서버에 접속을 요청하는 SYN(a) 패킷을 보낸다.**
 
@@ -62,7 +62,7 @@ Server : SYN_RCV => ESTABLISHED (클라이언트로부터 ACK를 받은뒤)
 
 ## **4 way handshake - 연결 해제**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ec7da74f-6c98-46ad-a22a-9517db5abb76/2cedf196-0432-4ab2-a057-8714fbded39a/Untitled.png)
+![Alt text](imgsrc/3&4img2.png)
 
 해제는 클라이언트, 서버 상관없이 먼저 할 수 있다.
 
