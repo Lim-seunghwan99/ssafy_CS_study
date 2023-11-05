@@ -24,7 +24,7 @@
 - 윤채송
   - github : https://github.com/ChaesongYun/
 - 김태용
-  - github : 
+  - github : https://github.com/94MOAI/
 - 임승환
   - github : 
 - 이지연
