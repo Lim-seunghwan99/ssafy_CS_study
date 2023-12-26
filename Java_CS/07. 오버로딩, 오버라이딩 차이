@@ -6,7 +6,7 @@
 
 : 한 클래스 내에서 같은 이름의 메소드를 여러 개 가지며 매개 변수 유형과 갯수 다르게 사용하는 기법
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ec7da74f-6c98-46ad-a22a-9517db5abb76/4f27aa4a-e0e6-4182-b14b-5475840add0b/Untitled.png)
+![Alt text](image_/image3.png)
 
 ### 오버라이딩과 오버로딩은 메소드(기능)의 재정의 또는 확장을 위한 개념, 어디에서 어떤 용도로 사용 하느냐의 차이이다.
 
